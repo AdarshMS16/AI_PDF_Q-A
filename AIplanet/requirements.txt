@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+redis
+python-dotenv
+pypdf2
+langchain
+langchain-google-genai
+faiss-cpu
